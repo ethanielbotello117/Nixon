@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+div{
+    height: 1000px;
+    width: 1000px;
+    background: url(../images/peace.jpeg);
+}
