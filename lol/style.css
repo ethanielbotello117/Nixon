@@ -4,8 +4,15 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 div{
-    height: 1000px;
-    width: 1000px;
-    background: url(../images/peace.jpeg);
+    height: 100px;
+    width: 100px;
+    background: url(../images/pog.png);
+    background-size: cover;
+    background-position: center;
 }

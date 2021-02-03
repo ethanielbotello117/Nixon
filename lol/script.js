@@ -1,7 +1,7 @@
 
-let timer = setInterval(UwU, 500);
+let timer = setInterval(time, 1);
 
-function UwU() {
+function time() {
     let add = document.createElement("div");
     main.appendChild(add);
 }
