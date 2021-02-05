@@ -15,3 +15,11 @@ div{
     background-size: cover;
 }
 
+body section{
+    height: 100px;
+    width: 100px;
+    background: url(../images/poggers.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
