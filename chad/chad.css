@@ -1,3 +1,7 @@
+*{
+    cursor: url('../images/cursor.png'), pointer;
+}
+
 body{
     display: flex;
     flex-wrap: wrap;

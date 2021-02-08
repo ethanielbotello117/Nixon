@@ -85,3 +85,7 @@ h3{
 .mickyboi div:hover{
     background: rgb(16, 61, 158);
 } */
+
+a{
+    cursor: url('images/cursor.png'), pointer;
+}

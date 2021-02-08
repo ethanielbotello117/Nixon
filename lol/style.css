@@ -2,6 +2,7 @@
     text-align: center;
     color: black;
     font-family: 'Roboto', sans-serif;
+    cursor: url('../images/cursor.png'), pointer;
 }
 
 body{
