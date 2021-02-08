@@ -32,7 +32,7 @@ section{
     width: 100px;
     height: 100px;
     background: black;
-    transition: .5s;
+    transition: 100s;
     z-index: 3;
     bottom: 0;
 }
